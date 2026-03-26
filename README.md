@@ -44,4 +44,4 @@ streamlit run app.py
 - [Task Progress](.gemini/antigravity/brain/51432095-7614-423f-999e-a285b10c0d4b/task.md)
 
 ---
-*Built with ❤️ by AI Job Market Intelligence Team*
+*Built with ❤️ by DEVANSH SAVLA*
