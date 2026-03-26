@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+build/
+dist/
+*.spec
+
+# Streamlit
+.streamlit/
+
+# Data & Models (Optional: Keep if small, but usually ignored for large files)
+# data/*.csv
+# models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF Audits
+*.pdf
+tmp_*.png
+tmp_*.jpg
